@@ -1,9 +1,0 @@
-com\ra\codeacademiweb\logica\Controladora.class
-com\ra\codeacademiweb\logica\Usuario.class
-com\ra\codeacademiweb\logica\Usuario_.class
-com\ra\codeacademiweb\logica\persistencia\exceptions\NonexistentEntityException.class
-com\ra\codeacademiweb\logica\persistencia\UsuarioJpaController.class
-com\ra\codeacademiweb\logica\persistencia\exceptions\IllegalOrphanException.class
-com\ra\codeacademiweb\logica\persistencia\exceptions\PreexistingEntityException.class
-com\ra\codeacademiweb\servlets\SvUsuario.class
-com\ra\codeacademiweb\logica\persistencia\ControladoraPersistencia.class
